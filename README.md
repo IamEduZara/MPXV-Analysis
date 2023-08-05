@@ -1,0 +1,2 @@
+# MPXV-Analysis
+ This project contains the data and the results of a Time Series Analysis of a Monkeypox Virus Dataset published by the @deepcontractor user. Such work was conducted as a requirement for the Applied Mathematics Assignature at Tecnológico de Monterrey MSc in Computer Science. My partner Farid S. Jácome Velasco and I presented it, as a final requirement in December 2022. Consult the report document for further references and context around the project, along with the analysis which is orginized in section folders.
