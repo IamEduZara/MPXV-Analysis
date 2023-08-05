@@ -7,7 +7,7 @@ This project contains the data and results of a Time Series Analysis of the Monk
 2. MEX-Analysis: Focuses on specific analysis related to data from Mexico.
 3. MPXV-Analysis: Analyzes the Monkeypox Virus data in detail, including different parameters and factors.
 4. MPXV-Data: Holds the raw dataset used for the analysis.
-5. New_MEX-Analysis: Additional analysis specifically for new data from Mexico.
+5. New_MEX-Analysis: Additional analysis specifically from Mexico.
 6. USA-Analysis: Contains analysis related to the United States data.
 7. WorldwideAnalysis: Explores global patterns and trends of the Monkeypox Virus.
 
